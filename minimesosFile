@@ -95,7 +95,7 @@ minimesos {
     marathon {
         // Add 'app { marathonJson = "<path or URL to JSON file>" }' for every task you want to execute
         app {
-            marathonJson = "https://raw.githubusercontent.com/ContainerSolutions/minimesos/e2a43362f4581122762c80d8780d09b567783f1a/apps/weave-scope.json"
+            marathonJson = "weave-scope.json"
         }
         app {
             marathonJson = "es.json"
