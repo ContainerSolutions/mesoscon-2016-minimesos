@@ -41,7 +41,7 @@ minimesos {
             }
             ports {
                 role = "*"
-                value = "[31000-32000]"
+                value = "[33000-34000]"
             }
         }
     }
@@ -62,7 +62,7 @@ minimesos {
             }
             ports {
                 role = "*"
-                value = "[31000-32000]"
+                value = "[35000-36000]"
             }
         }
     }
@@ -84,7 +84,7 @@ minimesos {
             }
             ports {
                 role = "*"
-                value = "[31000-32000]"
+                value = "[37000-38000]"
             }
         }
     }
